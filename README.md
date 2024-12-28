@@ -2,28 +2,6 @@
 
 Welcome to my GitHub profile! I am a computer science student passionate about programming and technology. Here's a bit about me and my work:
 
-### 🔭 I’m currently working on
-- Building projects to enhance my skills in **C#**, **HTML**, **PHP**, and **Python**.
-- Developing practical applications for my studies and exploring backend development.
-
-### 🌱 I’m currently learning
-- Advanced concepts in **web development** and **software architecture**.
-- Tools and frameworks to improve productivity and efficiency.
-
-### 👯 I’m looking to collaborate on
-- Open-source projects that involve **frontend** and **backend development**.
-- Educational projects that support other computer science students.
-
-### 💬 Ask me about
-- Programming in **C#**, **HTML**, **PHP**, and **Python**.
-- Tips and resources for computer science students.
-
-### 📫 How to reach me
-Feel free to connect with me through the following platforms:
-- [LinkedIn](https://www.linkedin.com)  
-- [Email](mailto:your-email@example.com)  
-
----
 
 ### 🛠️ Languages and Tools
 <p align="left">
