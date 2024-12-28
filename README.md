@@ -1,6 +1,6 @@
  ## Hi 👋, I'm Arife Nur Altun
 
-Welcome to my GitHub profile! I am a computer science student passionate about programming and technology. Here's a bit about me and my work:
+Welcome to my GitHub profile! I am a computer technology student passionate about programming and technology. Here's a bit about me and my work:
 
 
 ### 🛠️ Languages and Tools
